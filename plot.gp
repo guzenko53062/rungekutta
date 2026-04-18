@@ -33,6 +33,15 @@ set yrange [-5.0:5.0]
 set offsets 0,0,0,0
 set autoscale fix
 
+set grid linewidth 0.3
+set xzeroaxis linewidth 0.8
+set yzeroaxis linewidth 0.8
+
+set xtics 0.5
+set ytics 0.5
+set mxtics 5      # 5 минорных делений → шаг сетки 0.2
+set mytics 5
+
 set border linewidth 1.5
 set grid linewidth 0.5
 
