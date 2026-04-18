@@ -39,7 +39,7 @@ set yzeroaxis linewidth 0.8
 
 set xtics 0.5
 set ytics 0.5
-set mxtics 5      # 5 минорных делений → шаг сетки 0.2
+set mxtics 5 
 set mytics 5
 
 set border linewidth 1.5
